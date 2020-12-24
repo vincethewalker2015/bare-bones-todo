@@ -2,9 +2,9 @@
   "name": "using6_with_bootstrap",
   "private": true,
   "dependencies": {
-    "@rails/actioncable": "^6.0.0-alpha",
-    "@rails/activestorage": "^6.0.0-alpha",
-    "@rails/ujs": "^6.0.0-alpha",
+    "@rails/actioncable": "^6.1.0",
+    "@rails/activestorage": "^6.1.0",
+    "@rails/ujs": "^6.1.0",
     "@rails/webpacker": "4.2.2",
     "node-forge": "^0.10.0",
     "serialize-javascript": "^5.0.1",
@@ -13,6 +13,6 @@
   },
   "version": "0.1.0",
   "devDependencies": {
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.11.0"
   }
 }
